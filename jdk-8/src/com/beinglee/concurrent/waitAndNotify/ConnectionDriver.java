@@ -1,4 +1,4 @@
-package com.beinglee.concurrent;
+package com.beinglee.concurrent.waitAndNotify;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

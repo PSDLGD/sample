@@ -1,4 +1,4 @@
-package com.beinglee.concurrent;
+package com.beinglee.concurrent.waitAndNotify;
 
 import java.sql.Connection;
 import java.util.concurrent.CountDownLatch;

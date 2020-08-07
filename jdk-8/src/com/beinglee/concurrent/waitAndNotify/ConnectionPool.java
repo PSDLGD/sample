@@ -1,9 +1,11 @@
-package com.beinglee.concurrent;
+package com.beinglee.concurrent.waitAndNotify;
 
 import java.sql.Connection;
 import java.util.LinkedList;
 
 /**
+ * 简单的数据库连接池
+ *
  * @author Luz
  */
 public class ConnectionPool {
